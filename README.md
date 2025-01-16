@@ -5,3 +5,4 @@
 <h2>This repository contains HTML, CSS, and JavaScript code for a YouTube clone web application.Design template 2 pages index.html & play-video.html. The project aims to replicate the core functionalities of YouTube, including video browsing, search, and channel navigation.</h2>
 
 
+
